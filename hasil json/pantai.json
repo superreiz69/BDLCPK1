@@ -1,0 +1,356 @@
+[{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d164"
+  },
+  "nama_daerah": "Yogyakarta",
+  "wisata": {
+    "pantai": [
+      "Pantai Parangtritis"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d167"
+  },
+  "nama_daerah": "Semarang",
+  "wisata": {
+    "pantai": [
+      "Pantai Marina"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d168"
+  },
+  "nama_daerah": "Medan",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d169"
+  },
+  "nama_daerah": "Makassar",
+  "wisata": {
+    "pantai": [
+      "Pantai Losari"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16a"
+  },
+  "nama_daerah": "Denpasar",
+  "wisata": {
+    "pantai": [
+      "Pantai Sanur"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16b"
+  },
+  "nama_daerah": "Balikpapan",
+  "wisata": {
+    "pantai": [
+      "Pantai Manggar"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16c"
+  },
+  "nama_daerah": "Pontianak",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16d"
+  },
+  "nama_daerah": "Pekanbaru",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16e"
+  },
+  "nama_daerah": "Padang",
+  "wisata": {
+    "pantai": [
+      "Pantai Air Manis"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16f"
+  },
+  "nama_daerah": "Palembang",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d170"
+  },
+  "nama_daerah": "Banjarmasin",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d171"
+  },
+  "nama_daerah": "Manado",
+  "wisata": {
+    "pantai": [
+      "Pantai Malalayang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d172"
+  },
+  "nama_daerah": "Jayapura",
+  "wisata": {
+    "pantai": [
+      "Pantai Base G"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d173"
+  },
+  "nama_daerah": "Ambon",
+  "wisata": {
+    "pantai": [
+      "Pantai Natsepa"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d174"
+  },
+  "nama_daerah": "Ternate",
+  "wisata": {
+    "pantai": [
+      "Pantai Sulamadaha"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d175"
+  },
+  "nama_daerah": "Kupang",
+  "wisata": {
+    "pantai": [
+      "Pantai Lasiana"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d176"
+  },
+  "nama_daerah": "Mataram",
+  "wisata": {
+    "pantai": [
+      "Pantai Senggigi"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d177"
+  },
+  "nama_daerah": "Serang",
+  "wisata": {
+    "pantai": [
+      "Pantai Anyer"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d178"
+  },
+  "nama_daerah": "Bengkulu",
+  "wisata": {
+    "pantai": [
+      "Pantai Panjang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d179"
+  },
+  "nama_daerah": "Gorontalo",
+  "wisata": {
+    "pantai": [
+      "Pantai Olele"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17a"
+  },
+  "nama_daerah": "Tanjung Pinang",
+  "wisata": {
+    "pantai": [
+      "Pantai Trikora"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17b"
+  },
+  "nama_daerah": "Batam",
+  "wisata": {
+    "pantai": [
+      "Pantai Nongsa"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17c"
+  },
+  "nama_daerah": "Samarinda",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17d"
+  },
+  "nama_daerah": "Palangkaraya",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17e"
+  },
+  "nama_daerah": "Bandar Lampung",
+  "wisata": {
+    "pantai": [
+      "Pantai Mutun"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17f"
+  },
+  "nama_daerah": "Malang",
+  "wisata": {
+    "pantai": [
+      "Pantai Balekambang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d180"
+  },
+  "nama_daerah": "Cirebon",
+  "wisata": {
+    "pantai": [
+      "Pantai Kejawanan"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d181"
+  },
+  "nama_daerah": "Jambi",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d182"
+  },
+  "nama_daerah": "Palu",
+  "wisata": {
+    "pantai": [
+      "Pantai Talise"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d183"
+  },
+  "nama_daerah": "Kendari",
+  "wisata": {
+    "pantai": [
+      "Pantai Nambo"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d184"
+  },
+  "nama_daerah": "Sofifi",
+  "wisata": {
+    "pantai": [
+      "Pantai Gura Ici"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d185"
+  },
+  "nama_daerah": "Mamuju",
+  "wisata": {
+    "pantai": [
+      "Pantai Manakarra"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d165"
+  },
+  "nama_daerah": "Bandung",
+  "wisata": {
+    "pantai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d166"
+  },
+  "nama_daerah": "Surabaya",
+  "wisata": {
+    "pantai": [
+      "Pantai Kenjeran"
+    ]
+  }
+}]

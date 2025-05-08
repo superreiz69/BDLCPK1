@@ -1,0 +1,1179 @@
+[{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d164"
+  },
+  "nama_daerah": "Yogyakarta",
+  "image": "/images/yogyakarta.png",
+  "wisata": {
+    "kuliner": [
+      "Gudeg Yu Djum",
+      "Bakpia Pathok"
+    ],
+    "gunung": [
+      "Gunung Merapi"
+    ],
+    "danau": [],
+    "pantai": [
+      "Pantai Parangtritis"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Keraton Yogyakarta"
+    ],
+    "mall": [
+      "Malioboro Mall"
+    ],
+    "hotel": [
+      "Hotel Tentrem"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d167"
+  },
+  "nama_daerah": "Semarang",
+  "image": "/images/semarang.png",
+  "wisata": {
+    "kuliner": [
+      "Lumpia Semarang"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Marina"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Lawang Sewu"
+    ],
+    "mall": [
+      "DP Mall"
+    ],
+    "hotel": [
+      "Gumaya Tower Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d168"
+  },
+  "nama_daerah": "Medan",
+  "image": "/images/medan.png",
+  "wisata": {
+    "kuliner": [
+      "Soto Medan",
+      "Bika Ambon"
+    ],
+    "gunung": [
+      "Gunung Sibayak"
+    ],
+    "danau": [
+      "Danau Toba"
+    ],
+    "pantai": [],
+    "sungai": [],
+    "sejarah": [
+      "Istana Maimun"
+    ],
+    "mall": [
+      "Sun Plaza"
+    ],
+    "hotel": [
+      "JW Marriott Medan"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d169"
+  },
+  "nama_daerah": "Makassar",
+  "image": "/images/makassar.png",
+  "wisata": {
+    "kuliner": [
+      "Coto Makassar"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Losari"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Fort Rotterdam"
+    ],
+    "mall": [
+      "Trans Studio Mall"
+    ],
+    "hotel": [
+      "The Rinra Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16a"
+  },
+  "nama_daerah": "Denpasar",
+  "image": "/images/denpasar.png",
+  "wisata": {
+    "kuliner": [
+      "Ayam Betutu"
+    ],
+    "gunung": [
+      "Gunung Batur"
+    ],
+    "danau": [],
+    "pantai": [
+      "Pantai Sanur"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Museum Bali"
+    ],
+    "mall": [
+      "Level 21 Mall"
+    ],
+    "hotel": [
+      "Grand Inna Bali Beach"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16b"
+  },
+  "nama_daerah": "Balikpapan",
+  "image": "/images/balikpapan.png",
+  "wisata": {
+    "kuliner": [
+      "Kepiting Kenari"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Manggar"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Monumen Perjuangan Rakyat"
+    ],
+    "mall": [
+      "E-Walk Mall"
+    ],
+    "hotel": [
+      "Grand Tjokro Balikpapan"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16c"
+  },
+  "nama_daerah": "Pontianak",
+  "image": "/images/pontianak.png",
+  "wisata": {
+    "kuliner": [
+      "Pengkang",
+      "Chai Kue"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [],
+    "sungai": [
+      "Sungai Kapuas"
+    ],
+    "sejarah": [
+      "Tugu Khatulistiwa"
+    ],
+    "mall": [
+      "Ayani Mega Mall"
+    ],
+    "hotel": [
+      "Orchardz Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16d"
+  },
+  "nama_daerah": "Pekanbaru",
+  "image": "/images/pekanbaru.png",
+  "wisata": {
+    "kuliner": [
+      "Sate Padang"
+    ],
+    "gunung": [],
+    "danau": [
+      "Danau Buatan"
+    ],
+    "pantai": [],
+    "sungai": [],
+    "sejarah": [
+      "Museum Sang Nila Utama"
+    ],
+    "mall": [
+      "SKA Mall"
+    ],
+    "hotel": [
+      "Grand Central Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16e"
+  },
+  "nama_daerah": "Padang",
+  "image": "/images/padang.png",
+  "wisata": {
+    "kuliner": [
+      "Rendang",
+      "Sate Padang"
+    ],
+    "gunung": [
+      "Gunung Marapi"
+    ],
+    "danau": [
+      "Danau Maninjau"
+    ],
+    "pantai": [
+      "Pantai Air Manis"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Museum Adityawarman"
+    ],
+    "mall": [
+      "Transmart Padang"
+    ],
+    "hotel": [
+      "Grand Inna Padang"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16f"
+  },
+  "nama_daerah": "Palembang",
+  "image": "/images/palembang.png",
+  "wisata": {
+    "kuliner": [
+      "Pempek"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [],
+    "sungai": [
+      "Sungai Musi"
+    ],
+    "sejarah": [
+      "Benteng Kuto Besak"
+    ],
+    "mall": [
+      "Palembang Icon Mall"
+    ],
+    "hotel": [
+      "Aston Palembang Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d170"
+  },
+  "nama_daerah": "Banjarmasin",
+  "image": "/images/banjarmasin.png",
+  "wisata": {
+    "kuliner": [
+      "Soto Banjar"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [],
+    "sungai": [
+      "Pasar Terapung Sungai Barito"
+    ],
+    "sejarah": [
+      "Masjid Sultan Suriansyah"
+    ],
+    "mall": [
+      "Duta Mall Banjarmasin"
+    ],
+    "hotel": [
+      "Swiss-Belhotel Banjarmasin"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d171"
+  },
+  "nama_daerah": "Manado",
+  "image": "/images/manado.png",
+  "wisata": {
+    "kuliner": [
+      "Tinutuan",
+      "Cakalang Fufu"
+    ],
+    "gunung": [
+      "Gunung Lokon"
+    ],
+    "danau": [
+      "Danau Tondano"
+    ],
+    "pantai": [
+      "Pantai Malalayang"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Moraya"
+    ],
+    "mall": [
+      "Mantos Mall"
+    ],
+    "hotel": [
+      "Aryaduta Manado"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d172"
+  },
+  "nama_daerah": "Jayapura",
+  "image": "/images/jayapura.png",
+  "wisata": {
+    "kuliner": [
+      "Papeda"
+    ],
+    "gunung": [],
+    "danau": [
+      "Danau Sentani"
+    ],
+    "pantai": [
+      "Pantai Base G"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Museum Loka Budaya"
+    ],
+    "mall": [
+      "Mall Jayapura"
+    ],
+    "hotel": [
+      "Swiss-Belhotel Papua"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d173"
+  },
+  "nama_daerah": "Ambon",
+  "image": "/images/ambon.png",
+  "wisata": {
+    "kuliner": [
+      "Ikan Bakar Colo-Colo"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Natsepa"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Amsterdam"
+    ],
+    "mall": [
+      "Ambon City Center"
+    ],
+    "hotel": [
+      "The Natsepa Resort"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d174"
+  },
+  "nama_daerah": "Ternate",
+  "image": "/images/ternate.png",
+  "wisata": {
+    "kuliner": [
+      "Ikan Asar Ternate"
+    ],
+    "gunung": [
+      "Gunung Gamalama"
+    ],
+    "danau": [
+      "Danau Tolire"
+    ],
+    "pantai": [
+      "Pantai Sulamadaha"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Oranje"
+    ],
+    "mall": [
+      "Jatiland Mall"
+    ],
+    "hotel": [
+      "Muara Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d175"
+  },
+  "nama_daerah": "Kupang",
+  "image": "/images/kupang.png",
+  "wisata": {
+    "kuliner": [
+      "Se'i Sapi"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Lasiana"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Concordia"
+    ],
+    "mall": [
+      "Lippo Plaza Kupang"
+    ],
+    "hotel": [
+      "Swiss-Belinn Kristal"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d176"
+  },
+  "nama_daerah": "Mataram",
+  "image": "/images/mataram.png",
+  "wisata": {
+    "kuliner": [
+      "Ayam Taliwang"
+    ],
+    "gunung": [
+      "Gunung Rinjani"
+    ],
+    "danau": [],
+    "pantai": [
+      "Pantai Senggigi"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Pura Meru"
+    ],
+    "mall": [
+      "Lombok Epicentrum Mall"
+    ],
+    "hotel": [
+      "Golden Palace Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d177"
+  },
+  "nama_daerah": "Serang",
+  "image": "/images/serang.png",
+  "wisata": {
+    "kuliner": [
+      "Sate Bandeng"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Anyer"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Speelwijk"
+    ],
+    "mall": [
+      "Serang Mall"
+    ],
+    "hotel": [
+      "Horison Forbis Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d178"
+  },
+  "nama_daerah": "Bengkulu",
+  "image": "/images/bengkulu.png",
+  "wisata": {
+    "kuliner": [
+      "Pendap"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Panjang"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Rumah Pengasingan Bung Karno"
+    ],
+    "mall": [
+      "Mega Mall Bengkulu"
+    ],
+    "hotel": [
+      "Hotel Santika Bengkulu"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d179"
+  },
+  "nama_daerah": "Gorontalo",
+  "image": "/images/gorontalo.png",
+  "wisata": {
+    "kuliner": [
+      "Binte Biluhuta"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Olele"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Benteng Otanaha"
+    ],
+    "mall": [
+      "Gorontalo Mall"
+    ],
+    "hotel": [
+      "Hotel Maqna"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17a"
+  },
+  "nama_daerah": "Tanjung Pinang",
+  "image": "/images/tanjungpinang.png",
+  "wisata": {
+    "kuliner": [
+      "Otak-Otak Ikan"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Trikora"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Istana Raja Ali"
+    ],
+    "mall": [
+      "Tanjungpinang City Center"
+    ],
+    "hotel": [
+      "CK Tanjungpinang Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17b"
+  },
+  "nama_daerah": "Batam",
+  "image": "/images/batam.png",
+  "wisata": {
+    "kuliner": [
+      "Mie Tarempa"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Nongsa"
+    ],
+    "sungai": [],
+    "sejarah": [],
+    "mall": [
+      "Nagoya Hill Mall"
+    ],
+    "hotel": [
+      "Harris Resort Waterfront"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17c"
+  },
+  "nama_daerah": "Samarinda",
+  "image": "/images/samarinda.png",
+  "wisata": {
+    "kuliner": [
+      "Sate Payau"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [],
+    "sungai": [
+      "Tepian Mahakam"
+    ],
+    "sejarah": [
+      "Masjid Islamic Center"
+    ],
+    "mall": [
+      "Big Mall Samarinda"
+    ],
+    "hotel": [
+      "Hotel Bumi Senyiur"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17d"
+  },
+  "nama_daerah": "Palangkaraya",
+  "image": "/images/palangkaraya.png",
+  "wisata": {
+    "kuliner": [
+      "Juhu Singkah"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [],
+    "sungai": [
+      "Sungai Kahayan"
+    ],
+    "sejarah": [],
+    "mall": [
+      "Palangkaraya Mall"
+    ],
+    "hotel": [
+      "Swiss-Belhotel Danum"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17e"
+  },
+  "nama_daerah": "Bandar Lampung",
+  "image": "/images/bandarlampung.png",
+  "wisata": {
+    "kuliner": [
+      "Seruit"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Mutun"
+    ],
+    "sungai": [],
+    "sejarah": [],
+    "mall": [
+      "Boemi Kedaton Mall"
+    ],
+    "hotel": [
+      "Sheraton Lampung Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17f"
+  },
+  "nama_daerah": "Malang",
+  "image": "/images/malang.png",
+  "wisata": {
+    "kuliner": [
+      "Bakso Malang"
+    ],
+    "gunung": [
+      "Gunung Bromo"
+    ],
+    "danau": [
+      "Telaga Sarangan"
+    ],
+    "pantai": [
+      "Pantai Balekambang"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Candi Singosari"
+    ],
+    "mall": [
+      "Malang Town Square"
+    ],
+    "hotel": [
+      "Hotel Tugu Malang"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d180"
+  },
+  "nama_daerah": "Cirebon",
+  "image": "/images/cirebon.png",
+  "wisata": {
+    "kuliner": [
+      "Empal Gentong"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Kejawanan"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Keraton Kasepuhan"
+    ],
+    "mall": [
+      "Grage Mall Cirebon"
+    ],
+    "hotel": [
+      "Swiss-Belhotel Cirebon"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d181"
+  },
+  "nama_daerah": "Jambi",
+  "image": "/images/jambi.png",
+  "wisata": {
+    "kuliner": [
+      "Gulai Tempoyak"
+    ],
+    "gunung": [],
+    "danau": [
+      "Danau Sipin"
+    ],
+    "pantai": [],
+    "sungai": [
+      "Sungai Batanghari"
+    ],
+    "sejarah": [
+      "Candi Muaro Jambi"
+    ],
+    "mall": [
+      "Jambi Town Square"
+    ],
+    "hotel": [
+      "Aston Jambi Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d182"
+  },
+  "nama_daerah": "Palu",
+  "image": "/images/palu.png",
+  "wisata": {
+    "kuliner": [
+      "Kaledo"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Talise"
+    ],
+    "sungai": [
+      "Sungai Palu"
+    ],
+    "sejarah": [
+      "Museum Sulawesi Tengah"
+    ],
+    "mall": [
+      "Palu Grand Mall"
+    ],
+    "hotel": [
+      "Sutan Raja Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d183"
+  },
+  "nama_daerah": "Kendari",
+  "image": "/images/kendari.png",
+  "wisata": {
+    "kuliner": [
+      "Sinonggi"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Nambo"
+    ],
+    "sungai": [],
+    "sejarah": [],
+    "mall": [
+      "Lippo Plaza Kendari"
+    ],
+    "hotel": [
+      "Swiss-Belhotel Kendari"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d184"
+  },
+  "nama_daerah": "Sofifi",
+  "image": "/images/sofifi.png",
+  "wisata": {
+    "kuliner": [
+      "Ikan Kuah Kuning"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Gura Ici"
+    ],
+    "sungai": [],
+    "sejarah": [],
+    "mall": [],
+    "hotel": [
+      "Boulevard Hotel"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d185"
+  },
+  "nama_daerah": "Mamuju",
+  "image": "/images/mamuju.png",
+  "wisata": {
+    "kuliner": [
+      "Jepa"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Manakarra"
+    ],
+    "sungai": [],
+    "sejarah": [],
+    "mall": [],
+    "hotel": [
+      "D'Maleo Hotel Mamuju"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d165"
+  },
+  "nama_daerah": "Bandung",
+  "image": "/images/bandung.png",
+  "wisata": {
+    "kuliner": [
+      "Batagor Kingsley",
+      "Seblak Oces"
+    ],
+    "gunung": [
+      "Tangkuban Perahu"
+    ],
+    "danau": [
+      "Situ Patenggang"
+    ],
+    "pantai": [],
+    "sungai": [],
+    "sejarah": [
+      "Gedung Sate"
+    ],
+    "mall": [
+      "Paris Van Java"
+    ],
+    "hotel": [
+      "Hilton Bandung"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d166"
+  },
+  "nama_daerah": "Surabaya",
+  "image": "/images/surabaya.png",
+  "wisata": {
+    "kuliner": [
+      "Rawon Setan",
+      "Lontong Balap"
+    ],
+    "gunung": [],
+    "danau": [],
+    "pantai": [
+      "Pantai Kenjeran"
+    ],
+    "sungai": [],
+    "sejarah": [
+      "Museum 10 November"
+    ],
+    "mall": [
+      "Tunjungan Plaza"
+    ],
+    "hotel": [
+      "Shangri-La Surabaya"
+    ]
+  },
+  "createdAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T10:30:47.727Z"
+  },
+  "__v": 0
+}]

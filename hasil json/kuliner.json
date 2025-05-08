@@ -1,0 +1,381 @@
+[{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d164"
+  },
+  "nama_daerah": "Yogyakarta",
+  "wisata": {
+    "kuliner": [
+      "Gudeg Yu Djum",
+      "Bakpia Pathok"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d167"
+  },
+  "nama_daerah": "Semarang",
+  "wisata": {
+    "kuliner": [
+      "Lumpia Semarang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d168"
+  },
+  "nama_daerah": "Medan",
+  "wisata": {
+    "kuliner": [
+      "Soto Medan",
+      "Bika Ambon"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d169"
+  },
+  "nama_daerah": "Makassar",
+  "wisata": {
+    "kuliner": [
+      "Coto Makassar"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16a"
+  },
+  "nama_daerah": "Denpasar",
+  "wisata": {
+    "kuliner": [
+      "Ayam Betutu"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16b"
+  },
+  "nama_daerah": "Balikpapan",
+  "wisata": {
+    "kuliner": [
+      "Kepiting Kenari"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16c"
+  },
+  "nama_daerah": "Pontianak",
+  "wisata": {
+    "kuliner": [
+      "Pengkang",
+      "Chai Kue"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16d"
+  },
+  "nama_daerah": "Pekanbaru",
+  "wisata": {
+    "kuliner": [
+      "Sate Padang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16e"
+  },
+  "nama_daerah": "Padang",
+  "wisata": {
+    "kuliner": [
+      "Rendang",
+      "Sate Padang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16f"
+  },
+  "nama_daerah": "Palembang",
+  "wisata": {
+    "kuliner": [
+      "Pempek"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d170"
+  },
+  "nama_daerah": "Banjarmasin",
+  "wisata": {
+    "kuliner": [
+      "Soto Banjar"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d171"
+  },
+  "nama_daerah": "Manado",
+  "wisata": {
+    "kuliner": [
+      "Tinutuan",
+      "Cakalang Fufu"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d172"
+  },
+  "nama_daerah": "Jayapura",
+  "wisata": {
+    "kuliner": [
+      "Papeda"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d173"
+  },
+  "nama_daerah": "Ambon",
+  "wisata": {
+    "kuliner": [
+      "Ikan Bakar Colo-Colo"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d174"
+  },
+  "nama_daerah": "Ternate",
+  "wisata": {
+    "kuliner": [
+      "Ikan Asar Ternate"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d175"
+  },
+  "nama_daerah": "Kupang",
+  "wisata": {
+    "kuliner": [
+      "Se'i Sapi"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d176"
+  },
+  "nama_daerah": "Mataram",
+  "wisata": {
+    "kuliner": [
+      "Ayam Taliwang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d177"
+  },
+  "nama_daerah": "Serang",
+  "wisata": {
+    "kuliner": [
+      "Sate Bandeng"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d178"
+  },
+  "nama_daerah": "Bengkulu",
+  "wisata": {
+    "kuliner": [
+      "Pendap"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d179"
+  },
+  "nama_daerah": "Gorontalo",
+  "wisata": {
+    "kuliner": [
+      "Binte Biluhuta"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17a"
+  },
+  "nama_daerah": "Tanjung Pinang",
+  "wisata": {
+    "kuliner": [
+      "Otak-Otak Ikan"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17b"
+  },
+  "nama_daerah": "Batam",
+  "wisata": {
+    "kuliner": [
+      "Mie Tarempa"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17c"
+  },
+  "nama_daerah": "Samarinda",
+  "wisata": {
+    "kuliner": [
+      "Sate Payau"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17d"
+  },
+  "nama_daerah": "Palangkaraya",
+  "wisata": {
+    "kuliner": [
+      "Juhu Singkah"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17e"
+  },
+  "nama_daerah": "Bandar Lampung",
+  "wisata": {
+    "kuliner": [
+      "Seruit"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17f"
+  },
+  "nama_daerah": "Malang",
+  "wisata": {
+    "kuliner": [
+      "Bakso Malang"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d180"
+  },
+  "nama_daerah": "Cirebon",
+  "wisata": {
+    "kuliner": [
+      "Empal Gentong"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d181"
+  },
+  "nama_daerah": "Jambi",
+  "wisata": {
+    "kuliner": [
+      "Gulai Tempoyak"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d182"
+  },
+  "nama_daerah": "Palu",
+  "wisata": {
+    "kuliner": [
+      "Kaledo"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d183"
+  },
+  "nama_daerah": "Kendari",
+  "wisata": {
+    "kuliner": [
+      "Sinonggi"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d184"
+  },
+  "nama_daerah": "Sofifi",
+  "wisata": {
+    "kuliner": [
+      "Ikan Kuah Kuning"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d185"
+  },
+  "nama_daerah": "Mamuju",
+  "wisata": {
+    "kuliner": [
+      "Jepa"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d165"
+  },
+  "nama_daerah": "Bandung",
+  "wisata": {
+    "kuliner": [
+      "Batagor Kingsley",
+      "Seblak Oces"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d166"
+  },
+  "nama_daerah": "Surabaya",
+  "wisata": {
+    "kuliner": [
+      "Rawon Setan",
+      "Lontong Balap"
+    ]
+  }
+}]

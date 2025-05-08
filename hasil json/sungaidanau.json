@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d164"
+  },
+  "nama_daerah": "Yogyakarta",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d167"
+  },
+  "nama_daerah": "Semarang",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d168"
+  },
+  "nama_daerah": "Medan",
+  "wisata": {
+    "danau": [
+      "Danau Toba"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d169"
+  },
+  "nama_daerah": "Makassar",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16a"
+  },
+  "nama_daerah": "Denpasar",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16b"
+  },
+  "nama_daerah": "Balikpapan",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16c"
+  },
+  "nama_daerah": "Pontianak",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Sungai Kapuas"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16d"
+  },
+  "nama_daerah": "Pekanbaru",
+  "wisata": {
+    "danau": [
+      "Danau Buatan"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16e"
+  },
+  "nama_daerah": "Padang",
+  "wisata": {
+    "danau": [
+      "Danau Maninjau"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d16f"
+  },
+  "nama_daerah": "Palembang",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Sungai Musi"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d170"
+  },
+  "nama_daerah": "Banjarmasin",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Pasar Terapung Sungai Barito"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d171"
+  },
+  "nama_daerah": "Manado",
+  "wisata": {
+    "danau": [
+      "Danau Tondano"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d172"
+  },
+  "nama_daerah": "Jayapura",
+  "wisata": {
+    "danau": [
+      "Danau Sentani"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d173"
+  },
+  "nama_daerah": "Ambon",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d174"
+  },
+  "nama_daerah": "Ternate",
+  "wisata": {
+    "danau": [
+      "Danau Tolire"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d175"
+  },
+  "nama_daerah": "Kupang",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d176"
+  },
+  "nama_daerah": "Mataram",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d177"
+  },
+  "nama_daerah": "Serang",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d178"
+  },
+  "nama_daerah": "Bengkulu",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d179"
+  },
+  "nama_daerah": "Gorontalo",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17a"
+  },
+  "nama_daerah": "Tanjung Pinang",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17b"
+  },
+  "nama_daerah": "Batam",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17c"
+  },
+  "nama_daerah": "Samarinda",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Tepian Mahakam"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17d"
+  },
+  "nama_daerah": "Palangkaraya",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Sungai Kahayan"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17e"
+  },
+  "nama_daerah": "Bandar Lampung",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d17f"
+  },
+  "nama_daerah": "Malang",
+  "wisata": {
+    "danau": [
+      "Telaga Sarangan"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d180"
+  },
+  "nama_daerah": "Cirebon",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d181"
+  },
+  "nama_daerah": "Jambi",
+  "wisata": {
+    "danau": [
+      "Danau Sipin"
+    ],
+    "sungai": [
+      "Sungai Batanghari"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d182"
+  },
+  "nama_daerah": "Palu",
+  "wisata": {
+    "danau": [],
+    "sungai": [
+      "Sungai Palu"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d183"
+  },
+  "nama_daerah": "Kendari",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d184"
+  },
+  "nama_daerah": "Sofifi",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d185"
+  },
+  "nama_daerah": "Mamuju",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d165"
+  },
+  "nama_daerah": "Bandung",
+  "wisata": {
+    "danau": [
+      "Situ Patenggang"
+    ],
+    "sungai": []
+  }
+},
+{
+  "_id": {
+    "$oid": "681c87d7effd0988b7c9d166"
+  },
+  "nama_daerah": "Surabaya",
+  "wisata": {
+    "danau": [],
+    "sungai": []
+  }
+}]
